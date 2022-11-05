@@ -2,6 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
 
+
 const Navbar = () => {
   return (
     <header aria-label="Site Header" className="bg-white">
